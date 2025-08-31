@@ -28,7 +28,7 @@ Season Highlights: Total 6s, 4s, Matches, Teams, Centuries, Half Centuries, Venu
 
 Social media & reference links integrated for better accessibility
 
-📊  KPI's
+📊  KPI's  
 
 🔹 Primary KPIs (Winner/Runner-up with logos)
 
