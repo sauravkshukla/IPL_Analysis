@@ -28,6 +28,41 @@ Season Highlights: Total 6s, 4s, Matches, Teams, Centuries, Half Centuries, Venu
 
 Social media & reference links integrated for better accessibility
 
+📊  KPI's
+
+🔹 Primary KPIs (Winner/Runner-up with logos)
+
+✔ Winner Team of the season → ✅ (RCB 2025 with logo)
+✔ Runner-up Team of the season → ✅ (Punjab Kings 2025 with logo)
+
+🔹 Secondary KPIs
+
+✔ Total Sixes → ✅ (1K shown)
+✔ Total Fours → ✅ (2K shown)
+✔ Total Matches Played → ✅ (74 shown)
+✔ Total Teams Participated → ✅ (10 shown)
+✔ Total Centuries → ✅ (9 shown)
+✔ Total Half-Centuries → ✅ (143 shown)
+✔ Total Venues Used → ✅ (14 shown)
+
+🔹 Season Stats (Dynamic)
+
+✔ Orange Cap → ✅ (B Sai Sudharsan – Runs + Team + Player Image)
+✔ Purple Cap → ✅ (M Prasidh Krishna – Wickets + Team + Player Image)
+✔ Max Fours → ✅ (B Sai Sudharsan – Fours + Team + Player Image)
+✔ Max Sixes → ✅ (N Pooran – Sixes + Team + Player Image)
+
+🔹 Points Table (Dynamic)
+
+✔ Logo (Dynamic team logos) → ✅
+✔ Team Name → ✅
+✔ Matches Played → ✅
+✔ Won → ✅
+✔ Lost → ✅
+✔ NR (No Result) → ✅
+✔ Tie → ✅
+✔ Total Points (using IPL rule) → ✅
+
 
 
 🛠 Tools & Technologies
